@@ -3,5 +3,5 @@ module.exports = {
     PORT: 27017,
     DB: "user_auth",
     USER: "serviceaccount",
-    PWD: "xDedg123_qq"
+    PWD: "xx"
   };
